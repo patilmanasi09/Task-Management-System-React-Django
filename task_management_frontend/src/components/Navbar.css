@@ -1,0 +1,24 @@
+.navbar {
+  padding: 14px 0;
+}
+
+.navbar-brand {
+  letter-spacing: 1px;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 16px;
+  transition: 0.3s;
+  border-radius: 6px;
+  padding: 8px 15px !important;
+}
+
+.nav-link:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.nav-link.active {
+  background: white;
+  color: #0d6efd !important;
+}

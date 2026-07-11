@@ -1,0 +1,45 @@
+.task-page {
+    min-height: 100vh;
+    background: linear-gradient(135deg,#eef5ff,#ffffff);
+    padding: 50px 0;
+}
+
+.task-card{
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.task-header{
+    background:linear-gradient(90deg,#0d6efd,#3b82f6);
+    color:white;
+    padding:30px;
+}
+
+.task-header h2{
+    font-weight:700;
+}
+
+.task-header p{
+    opacity:.9;
+}
+
+.form-control{
+    border-radius:10px;
+    padding:12px;
+}
+
+.form-control:focus{
+    border-color:#0d6efd;
+    box-shadow:0 0 8px rgba(13,110,253,.25);
+}
+
+.btn-primary{
+    border-radius:10px;
+    font-size:17px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.btn-primary:hover{
+    transform:translateY(-2px);
+}

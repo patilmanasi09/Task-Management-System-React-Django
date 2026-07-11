@@ -1,0 +1,65 @@
+.task-list-page{
+    background:#f5f8fc;
+    min-height:100vh;
+    padding:40px 0;
+}
+
+.task-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:25px;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.task-header h2{
+    font-weight:700;
+}
+
+.task-header p{
+    color:#6c757d;
+    margin-bottom:0;
+}
+
+.search-box{
+    width:320px;
+    position:relative;
+}
+
+.search-icon{
+    position:absolute;
+    left:12px;
+    top:12px;
+    color:gray;
+}
+
+.search-box input{
+    padding-left:40px;
+    border-radius:10px;
+}
+
+.card{
+    border-radius:18px;
+}
+
+.table th{
+    text-align:center;
+}
+
+.table td{
+    vertical-align:middle;
+}
+
+.table tbody tr:hover{
+    background:#eef5ff;
+}
+
+.badge{
+    font-size:14px;
+    padding:8px 14px;
+}
+
+.btn{
+    border-radius:8px;
+}
