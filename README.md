@@ -76,23 +76,6 @@ Task-Management-System/
 └── README.md
 ```
 
----
-
-## 📸 Screens
-
-- Dashboard
-- Create Task
-- Task List
-- Task Details
-- Edit Task
-- Create User
-- User List
-- User Details
-
-(Add screenshots here after uploading images.)
-
----
-
 ## ⚙ Installation
 
 ### Clone Repository
