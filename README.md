@@ -153,20 +153,6 @@ http://localhost:5173/
 | PUT | `/api/users/update_user/<id>/` |
 | DELETE | `/api/users/delete_user/<id>/` |
 
----
-
-## 📈 Future Improvements
-
-- User Authentication (JWT)
-- Login & Registration
-- Search Tasks
-- Filter by Status
-- Pagination
-- Dashboard Analytics
-- Email Notifications
-- Profile Management
-- Dark Mode
-- Role-Based Access Control (Admin/User)
 
 ---
 
